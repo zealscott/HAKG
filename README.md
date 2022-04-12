@@ -2,7 +2,7 @@
 
 This is our Pytorch implementation for the paper:
 
-> Yuntao Du, Xinjun Zhu, Lu Chen, Baihua Zheng and Yunjun Gao. (2022). HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation.
+> Yuntao Du, Xinjun Zhu, Lu Chen, Baihua Zheng and Yunjun Gao. (2022). HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation. Paper in [ACM DL]() or Paper in [arXiv](https://arxiv.org/abs/2204.04959). In SIGIR'22, Madrid, Spain, July 11–15, 2022.
 
 ## Introduction
 
@@ -15,11 +15,12 @@ If you want to use our codes and datasets in your research, please cite:
 ```
 @inproceedings{HAKG22,
   author    = {Yuntao Du and
-  			  Xinjun Zhu and
-  			  Lu Chen and
-  			  Baihua Zheng and 
-  			  Yunjun Gao},
+               Xinjun Zhu and
+               Lu Chen and
+               Baihua Zheng and 
+               Yunjun Gao},
   title     = {{HAKG:} Hierarchy-Aware Knowledge Gated Network for Recommendation},
+  booktitle = {{SIGIR}},
   year      = {2022}
 }
 ```
