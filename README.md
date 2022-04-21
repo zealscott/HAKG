@@ -1,5 +1,9 @@
 # HAKG
 
+<div align=center>
+<img src=./fig/framework.png width="80%" ></img>
+</div>
+
 This is our Pytorch implementation for the paper:
 
 > Yuntao Du, Xinjun Zhu, Lu Chen, Baihua Zheng and Yunjun Gao. (2022). HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation. Paper in [ACM DL]() or Paper in [arXiv](https://arxiv.org/abs/2204.04959). In SIGIR'22, Madrid, Spain, July 11–15, 2022.
