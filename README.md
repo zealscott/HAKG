@@ -79,7 +79,7 @@ Any scientific publications that use our datasets should cite the following pape
 
 Nobody guarantees the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
 
-The user must acknowledge the use of the data set in publications resulting from the use of the data set.
-The user may not redistribute the data without separate permission.
-The user may not try to deanonymise the data.
-The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from us.
+* The user must acknowledge the use of the data set in publications resulting from the use of the data set.
+* The user may not redistribute the data without separate permission.
+* The user may not try to deanonymise the data.
+* The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from us.
