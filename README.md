@@ -60,3 +60,26 @@ python main.py --dataset yelp2018 --lr 0.0005 --angle_loss_w 0.005 --context_hop
 ```shell
 python main.py --dataset last-fm --lr 0.0001 --angle_loss_w 0.005 --context_hops 3 --num_neg_sample 400 --margin 0.7
 ```
+
+## Acknowledgement
+Any scientific publications that use our datasets should cite the following paper as the reference:
+
+```
+@inproceedings{HAKG22,
+  author    = {Yuntao Du and
+               Xinjun Zhu and
+               Lu Chen and
+               Baihua Zheng and 
+               Yunjun Gao},
+  title     = {{HAKG:} Hierarchy-Aware Knowledge Gated Network for Recommendation},
+  booktitle = {{SIGIR}},
+  year      = {2022}
+}
+```
+
+Nobody guarantees the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
+
+The user must acknowledge the use of the data set in publications resulting from the use of the data set.
+The user may not redistribute the data without separate permission.
+The user may not try to deanonymise the data.
+The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from us.
