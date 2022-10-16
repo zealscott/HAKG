@@ -42,6 +42,7 @@ If you want to use our codes and datasets in your research, please cite:
 We user three popular datasets: Alibaba-iFashion, Yelp2018 and Last-FM to conduct experiments.
 * We follow the paper "[Learning Intents behind Interactions with Knowledge Graph for Recommendation]()" to process data.
 * You can find the full version of recommendation datasets via [Alibaba-iFashion](https://github.com/wenyuer/POG), [Yelp2018](https://www.heywhale.com/mw/dataset/5ecbc342fac16e0036ec41a0) and [Last-FM](http://www.cp.jku.at/datasets/LFM-1b/).
+* [New] We have added all datasets in our paper, and it can be found in [here](https://github.com/zealscott/HAKG/tree/main/data).
 
 ## Reproducibility & Training
 
