@@ -34,7 +34,8 @@ If you want to use our codes and datasets in your research, please cite:
 
 - Ubuntu OS
 - Python >= 3.8 (Anaconda3 is recommended)
-- PyTorch 1.7+
+- PyTorch == 1.8
+- networkx == 2.5
 - A Nvidia GPU with cuda 11.1+
 
 ## Datasets
